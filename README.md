@@ -3,6 +3,7 @@ A middle man to translate Miniblox packets into Minecraft 1.8.9 packets made by 
 
 ## Modifications
 I changed the version number that gets sent to the server to bypass their checks. I will also continue to bypass their checks if/when they create new ones
+(gotta promote my own things [discord](https://discord.gg/Y2cbFTxr9f) [website](https://niggafart.org))
 
 ## Use Steps
 1. Install the latest NodeJS at (https://nodejs.org/)
